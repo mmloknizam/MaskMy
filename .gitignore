@@ -1,0 +1,19 @@
+/.idea/
+/target/*
+.netbeans*
+
+# NetBeans specific files and directories
+nbproject/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+.nb-gradle-properties
+
+# NetBeans automatic build files
+.netbeans_automatic_build
+
+# NetBeans cache and temp files
+.netbeans/
+*/nb-configuration.xml
