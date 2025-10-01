@@ -17,3 +17,18 @@ nb-configuration.xml
 # NetBeans cache and temp files
 .netbeans/
 */nb-configuration.xml
+
+# Custom JRE (može se regenerisati)
+custom-jre/
+
+# SQLite baze (lokalne, ne idu na repo)
+*.db
+*.sqlite
+
+# Izvršni fajlovi i skripte
+*.exe
+*.bat
+*.sh
+
+# Maven specifični fajlovi
+dependency-reduced-pom.xml

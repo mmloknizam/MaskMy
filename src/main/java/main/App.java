@@ -1,3 +1,5 @@
+package main;
+
 import klijent.forme.SingInForm;
 import server.forme.ServerskaForma;
 
